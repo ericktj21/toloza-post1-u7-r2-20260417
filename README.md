@@ -23,3 +23,5 @@ Abrir:
 
 ## Entrega GitHub
 Nombre sugerido: `apellido-post1-u7`
+
+Publicacion independiente r2: 2026-04-17 07:26:48

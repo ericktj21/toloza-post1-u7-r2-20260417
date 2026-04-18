@@ -24,4 +24,13 @@ Abrir:
 ## Entrega GitHub
 Nombre sugerido: `apellido-post1-u7`
 
-Publicacion independiente r2: 2026-04-17 07:26:48
+## Capturas de Pantalla de la Aplicación
+
+**1. Listado de Productos (Vista Principal):**
+![Listado de productos](img/captura-listado.png)
+
+**2. Formulario de Registro (Nuevo Producto):**
+![Registro de producto](img/captura-nuevo.png)
+
+**3. Formulario de Edición (Actualizar Producto):**
+![Edición de producto](img/captura-edicion.png)
